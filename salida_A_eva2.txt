@@ -1,0 +1,2 @@
+=== Validación de IP para DispositivoRed ===
+¿Cuántos dispositivos deseas validar? (ej: 1 ó 3): Nombre del dispositivo 1: IP del dispositivo 1: [OK] La IP '65.10.5.1' del dispositivo '65.10.5.1' es válida.
